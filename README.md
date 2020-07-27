@@ -8,7 +8,7 @@ iPhoneで使っているようなマップと同じようなマップを作り�
  
 # DEMO
  
-![画像名]
+![画像名](https://github.com/quin001cunx/newRead/blob/master/sample_image.jpg）
  
 # Features
  
