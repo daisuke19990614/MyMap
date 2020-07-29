@@ -16,10 +16,9 @@ iPhoneで使っているようなマップと同じようなマップを作り�
  
 # Requirement
  
-"hoge"を動かすのに必要なライブラリなどを列挙する
- 
-* huga 3.5.2
-* hogehuga 1.0.2
+
+* XCode 10.1
+* Swift 4.2
  
 # Installation
  
