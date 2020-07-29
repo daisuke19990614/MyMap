@@ -12,7 +12,7 @@ iPhoneで使っているようなマップと同じようなマップを作り�
  
 # Features
  
-"hoge"のセールスポイントや差別化などを説明する
+ボタンを押すだけで航空写真や３D画像などの切り替えができる
  
 # Requirement
  
@@ -47,9 +47,9 @@ python demo.py
  
 作成情報を列挙する
  
-* 作成者
+* 作成者　宮本大介
 * 所属
-* E-mail
+* E-mail　m.daisuke0614@gmail.com
  
 # License
 ライセンスを明示する
