@@ -8,7 +8,7 @@ iPhoneで使っているようなマップと同じようなマップを作り�
  
 # DEMO
  
-![画像名](https://github.com/sample_image.jpg）
+![画像名](sample_image.jpg）
  
 # Features
  
