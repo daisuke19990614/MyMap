@@ -8,7 +8,7 @@ iPhoneで使っているようなマップと同じようなマップを作り�
  
 # DEMO
  
-![サンプル画像]　(sample_image.jpg)
+![サンプル画像]　(https://github.com/daisuke19990614/MyMap/commit/20ea5559d84539de7d038dd6ba6b0546d8a18668)
  
 # Features
  
