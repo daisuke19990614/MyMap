@@ -20,27 +20,12 @@ iPhoneで使っているようなマップと同じようなマップを作り�
 * XCode 10.1
 * Swift 4.2
  
-# Installation
- 
-Requirementで列挙したライブラリなどのインストール方法を説明する
- 
-```bash
-pip install huga_package
-```
- 
-# Usage
- 
-DEMOの実行方法など、"hoge"の基本的な使い方を説明する
- 
-```bash
-git clone https://github.com/hoge/~
-cd examples
-python demo.py
-```
+
+
  
 # Note
  
-注意点などがあれば書く
+Yahooニュースのみたいにお天気アプリを追加実装する予定
  
 # Author
  
