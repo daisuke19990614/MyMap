@@ -35,11 +35,4 @@ Yahooニュースのみたいにお天気アプリを追加実装する予定
 * 所属
 * E-mail　m.daisuke0614@gmail.com
  
-# License
-ライセンスを明示する
- 
-"hoge" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
- 
-社内向けなら社外秘であることを明示してる
- 
-"hoge" is Confidential.
+
